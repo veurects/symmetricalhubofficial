@@ -1,1 +1,3 @@
-local value = {"MelvinRoleplays736"}
+if player.UserId == 3449331854 then
+ScriptDisabled = false
+end

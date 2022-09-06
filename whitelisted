@@ -1,4 +1,0 @@
-if player.UserId == 3449331854 then
-ScriptDisabled = false
-return
-end

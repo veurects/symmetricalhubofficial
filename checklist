@@ -1,5 +1,5 @@
 wait(5)
-if test then
+if getgenv().test == 'L' then
 print("Nice youre not bypassing the buyer cmds.")
 else
 print("Nigga detected")
